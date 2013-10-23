@@ -1,1 +1,50 @@
-""
+#header{
+	height:50px;
+	width:800px;
+	background-color:grey;
+	text-align: center;
+	border-radius: 10px;
+}
+
+#nav{
+	height:50px;
+	width:800px;
+	background-color:grey;
+	text-align: center;
+	border-radius: 10px;
+}
+#footer{
+	height:50px;
+	width:800px;
+	background-color:grey;
+	text-align: center;
+	border-radius: 10px;
+}
+#section{
+	height:50px;
+	width:50%;
+	background-color:grey;
+	text-align: center;
+	border-radius: 10px;
+}
+#sidebar{
+	height:50px;
+	width:50%;
+	background-color:blue;
+	text-align: center;
+	border-radius: 10px;	
+}
+.article{
+	height:50px;
+	width:50%;
+	text-align: center;
+	background-color:red;
+	border-radius: 10px;	
+}
+.section{
+	height:50px;
+	width:50%;
+	text-align: center;
+	background-color:black;
+	border-radius: 10px;	
+}
