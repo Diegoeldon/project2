@@ -21,28 +21,28 @@
 	border-radius: 10px;
 }
 #content{
-	height:50px;
+	height:150px;
 	width:800px;
 	background-color:grey;
 	text-align: center;
 	border-radius: 10px;
 }
 #aside{
-	height:50px;
-	width:50%;
+	height:150px;
+	width:45%;
 	background-color:blue;
 	text-align: center;
 	border-radius: 10px;	
 }
 .article{
-	height:50px;
+	height:150px;
 	width:50%;
 	text-align: center;
 	background-color:red;
 	border-radius: 10px;	
 }
 .section{
-	height:50px;
+	height:100%;
 	width:50%;
 	text-align: center;
 	background-color:green;
@@ -57,7 +57,10 @@
 	float: right;
 }
 
-.clear{
+.clear_both{
 	clear:both;
 }
 
+div{
+	margin: 10px
+}
